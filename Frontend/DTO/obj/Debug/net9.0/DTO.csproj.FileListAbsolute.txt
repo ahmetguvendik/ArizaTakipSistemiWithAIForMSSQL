@@ -1,0 +1,12 @@
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\bin\Debug\net9.0\DTO.deps.json
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\bin\Debug\net9.0\DTO.dll
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\bin\Debug\net9.0\DTO.pdb
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.AssemblyInfoInputs.cache
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.AssemblyInfo.cs
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.sourcelink.json
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.dll
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\refint\DTO.dll
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\DTO.pdb
+C:\Users\ahmet\Source\Repos\ArizaTakipSistemiWithAI\Frontend\DTO\obj\Debug\net9.0\ref\DTO.dll
